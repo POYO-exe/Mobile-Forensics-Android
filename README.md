@@ -80,10 +80,4 @@ A practical study archive for Android security, reverse engineering, rooting, an
 
 ---
 
-## 단계별 절차
-
-### 1) 공식 펌웨어 준비
-- 동일 빌드의 공식 펌웨어(4파일: BL/AP/CP/CSC)를 준비합니다.
-- 다운로드 출처는 본인이 신뢰하는 공식/정상 유통 경로를 사용하세요.
-
-📁 권장 폴더 구조 예시:
+<img width="451" height="710" alt="image" src="https://github.com/user-attachments/assets/50e2047a-8472-411c-8cc1-9448cc282986" />
