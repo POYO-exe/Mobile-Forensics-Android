@@ -1,3 +1,5 @@
 adb shell "for d in / /system /system_ext /product /vendor /odm /data /sdcard /storage /mnt; do echo ==== $d ====; find $d 2>/dev/null; done" > android_paths.txt
 
 adb pull /sdcard/databases databases_dump
+
+adb pull /sdcard/Android/data/com.twitter.android/files twitter_dump
